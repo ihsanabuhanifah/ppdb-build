@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.e482a0e1.chunk.css",
-    "main.js": "/static/js/main.993cc3ea.chunk.js",
-    "main.js.map": "/static/js/main.993cc3ea.chunk.js.map",
+    "main.css": "/static/css/main.bcdf2c35.chunk.css",
+    "main.js": "/static/js/main.4d825564.chunk.js",
+    "main.js.map": "/static/js/main.4d825564.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.db97acd7.js",
     "runtime-main.js.map": "/static/js/runtime-main.db97acd7.js.map",
     "static/js/2.63cf5946.chunk.js": "/static/js/2.63cf5946.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.7cffddac.chunk.js": "/static/js/3.7cffddac.chunk.js",
     "static/js/3.7cffddac.chunk.js.map": "/static/js/3.7cffddac.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e482a0e1.chunk.css.map": "/static/css/main.e482a0e1.chunk.css.map",
+    "static/css/main.bcdf2c35.chunk.css.map": "/static/css/main.bcdf2c35.chunk.css.map",
     "static/js/2.63cf5946.chunk.js.LICENSE.txt": "/static/js/2.63cf5946.chunk.js.LICENSE.txt",
     "static/media/image1.96d90e16.png": "/static/media/image1.96d90e16.png",
     "static/media/matematika.5813da29.jpg": "/static/media/matematika.5813da29.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.db97acd7.js",
     "static/js/2.63cf5946.chunk.js",
-    "static/css/main.e482a0e1.chunk.css",
-    "static/js/main.993cc3ea.chunk.js"
+    "static/css/main.bcdf2c35.chunk.css",
+    "static/js/main.4d825564.chunk.js"
   ]
 }
